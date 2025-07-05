@@ -12,7 +12,7 @@ end
 local Minimized = false
 local Logging = true
 local OutputPos = 0
-local ScrollingDown = true
+local ScrollingDown = false
  
 local ChatLog = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
